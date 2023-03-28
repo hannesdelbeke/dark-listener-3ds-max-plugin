@@ -1,0 +1,15 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <ApplicationPackage 
+        SchemaVersion="1.0" 
+        AutodeskProduct="3ds Max" 
+        ProductType="Application" 
+        Name="Dark Listener"
+        AppVersion="1.0.0"
+        ProductCode="{caedfa12-cf58-4188-a22b-e4cf2e52baa2}" 
+        UpgradeCode="{68b04f36-d00b-436e-9386-7337afcffa4a}">
+        <CompanyDetails />
+        <Components Description="post-start-up scripts parts">
+            <RuntimeRequirements OS="Win64" Platform="3ds Max" SeriesMin="2018" SeriesMax="2030" />
+            <ComponentEntry AppName="Dark Listener" Version="1.0.0" ModuleName="./post_startup_scripts/dark_listener.ms" />
+        </Components>
+    </ApplicationPackage>
