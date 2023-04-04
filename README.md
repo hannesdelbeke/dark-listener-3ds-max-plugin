@@ -10,5 +10,6 @@ A plugin to auto start 3ds Max with dark / night mode for the listener.
 - restart max, should auto load on startup.
 
 ## Links
+- [Youtube video](https://www.youtube.com/watch?v=OQX9yfGhpSQ)
 - App store [entry](https://apps.autodesk.com/3DSMAX/en/Detail/Index?id=166438469803985799&appLang=en&os=Win32_64)
 - Autodesk [thread](https://forums.autodesk.com/t5/3ds-max-ideas/listener-window-background-color/idi-p/7653908) that inspired this package
