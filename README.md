@@ -2,9 +2,9 @@
 
 A plugin to auto start 3ds Max with dark / night mode for the listener.
 
-| ⬜ default listener  | ⬛ dark mode listener&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| ⬜ default listener  | ⬛ dark mode listener |
 | -- | -- |
-| <img width="1511" alt="image" src="https://user-images.githubusercontent.com/3758308/230444045-7e34af77-e823-403b-9f1b-de4f61c2ac46.png"> | <img width="852" alt="image" src="https://user-images.githubusercontent.com/3758308/228204597-c50fcdaa-36ee-412c-9dd9-bf0bee35f8a7.png"> |
+| <img width="888" alt="image" src="https://user-images.githubusercontent.com/3758308/231442478-c7696ec1-8b5f-4378-8103-ac4af222648f.png"> | <img width="852" alt="image" src="https://user-images.githubusercontent.com/3758308/228204597-c50fcdaa-36ee-412c-9dd9-bf0bee35f8a7.png"> |
 
 ## Installation
 - download the repo
