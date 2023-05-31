@@ -1,6 +1,6 @@
 # Dark listener
 
-A plugin to auto start 3ds Max with dark / night mode for the listener.
+A plugin to auto start 3ds Max with dark / night mode for the listener, for 3ds Max 2020 and higher.
 
 | ⬜ default listener  | ⬛ dark mode listener |
 | -- | -- |
