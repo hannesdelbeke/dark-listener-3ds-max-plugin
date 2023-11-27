@@ -13,6 +13,6 @@ A plugin to auto start 3ds Max with dark / night mode for the listener, for 3ds 
 
 ## Links
 
-[<img width="300" alt="youtube video thumbnail for dark mode listener in 3ds max" src="https://raw.githubusercontent.com/hannesdelbeke/dark-listener-max/main/youtube_thumb.jpg">](https://www.youtube.com/watch?v=OQX9yfGhpSQ)
+[<img width="300" alt="youtube video thumbnail for dark mode listener in 3ds max" src="https://raw.githubusercontent.com/hannesdelbeke/dark-listener-max/main/docs/youtube_thumb.jpg">](https://www.youtube.com/watch?v=OQX9yfGhpSQ)
 - App store [entry](https://apps.autodesk.com/3DSMAX/en/Detail/Index?id=166438469803985799&appLang=en&os=Win32_64)
 - Autodesk [thread](https://forums.autodesk.com/t5/3ds-max-ideas/listener-window-background-color/idi-p/7653908) that inspired this package
